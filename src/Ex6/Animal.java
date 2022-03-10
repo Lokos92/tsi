@@ -1,4 +1,4 @@
-package Practice1;
+package Ex6;
 
 public interface Animal {
     void sound();
